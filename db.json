@@ -1,6 +1,6 @@
 {
   "version": [
-    { "platform": "iOS", "version": "1.0.0" },
-    { "platform": "android", "version": "1.0.0" }
+    { "platform": "iOS", "version": "1.2" },
+    { "platform": "android", "version": "1.2" }
   ]
 }
