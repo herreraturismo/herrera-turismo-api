@@ -1,6 +1,36 @@
 {
-  "version": [
-    { "platform": "iOS", "version": "1.2" },
-    { "platform": "android", "version": "1.2" }
-  ]
+    "version": [
+        { "platform": "iOS", "version": "1.2" },
+        { "platform": "android", "version": "1.2" }
+    ],
+    "tour": {
+        "id": 1,
+        "title": "Herrera",
+        "description": "Con una situación geográfica privilegiada y su riqueza patrimonial y humana hacen de este pueblo una opción importante para visitar o pernoctar. Próximo a las provincias de Córdoba, Sevilla, Málaga y Granada con una distancia de apenas una hora. Además cuenta con buenas comunicaciones con estas, como su acceso por autovía (A-92) a tan solo 5 km de nuestro pueblo, así como diferentes líneas de autobús y alta velocidad, por la Estación AVE Herrera-Puente Genil, también a escasos kilómetros.",
+        "medias": [
+            {
+                "url": "https://github.com/herreraturismo/herrera-turismo-api/raw/main/promo-herrera.mp4",
+                "type": "video"
+            }
+        ],
+        "places": [
+            {
+                "id": 10,
+                "location": {
+                    "latitude": 37.366558,
+                    "longitude": -4.8464621
+                },
+                "title": "Bienvenida al Museo",
+                "subtitle": "Museo de la higiene y la salud en la historia",
+                "description": "%20%20%20%20%20%20%20%20%20%20%20%20Bienvenidos%20al%20Museo%20de%20la%20Higiene%20y%20la%20Salud%20en%20la%20Historia%2C%20nos%20encontramos%20ante%20una%20colecci%C3%B3n%20%C3%BAnica%20en%20Andaluc%C3%ADa%20que%20cuenta%20con%20unas%20%202500%20piezas%20inventariadas%20desde%20el%20%20siglo%20II%20a.C.%20hasta%20el%20siglo%20XX%2C%20entre%20las%20que%20podemos%20encontrar%20instrumental%20medico%20y%20quir%C3%BArgico%2C%20objetos%20de%20higiene%20antiguos%2C%20diferentes%20cajas%20de%20medicamentos%2C%20pomadas%E2%80%A6%2C%20pertenecientes%20a%20la%20colecci%C3%B3n%20privada%20de%20Francisco%20Jurado%20Mu%C3%B1oz%2C%20un%20vecino%20de%20la%20localidad%2C%20de%20profesi%C3%B3n%20enfermero.%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20Aunque%20ahora%20se%20encuentra%20situado%20en%20este%20edificio%2C%20en%20el%20momento%20en%20el%20que%20fue%20constituido%20en%20el%20a%C3%B1o%201993%2C%20en%20un%20antiguo%20dep%C3%B3sito%20de%20agua%20reformado%20del%20a%C3%B1o%201949%2C%20que%20se%20encuentra%20en%20lo%20que%20actualmente%20es%20el%20jard%C3%ADn%20de%20la%20residencia%20de%20mayores%20de%20Herrera.%20Pasados%20unos%20a%C3%B1os%20y%20dada%20la%20cantidad%20de%20piezas%20con%20la%20que%20cuenta%20la%20colecci%C3%B3n%2C%20el%20ayuntamiento%20cedi%C3%B3%20otro%20espacio%20ubicado%20justo%20al%20lado.%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20Actualmente%20el%20museo%20cuenta%20con%20cuatro%20espacios%20representativos%20siendo%20estos%20la%20sala%20de%20un%20dentista%2C%20una%20botica%2C%20una%20sala%20de%20partos%20y%20una%20consulta%20m%C3%A9dico%2Fpediatra.%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20Contamos%20tambi%C3%A9n%20con%20tres%20uniformes%20militares%2C%20siendo%20%20estos%20uno%20de%20Teniente%20de%20Farmacia%2C%20otro%20de%20Comandante%20de%20Sanidad%20y%20finalmente%20uno%20blanco%20de%20ATS%20militar%20que%20ha%20estado%20en%20misiones.%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20A%20esta%20particular%20y%20%C3%BAnica%20colecci%C3%B3n%20en%20Andaluc%C3%ADa%2C%20hay%20que%20a%C3%B1adirle%20tambi%C3%A9n%20una%20colecci%C3%B3n%20de%20Ciencias%20Naturales%2C%20formada%20por%20una%20variedad%20de%20especies%20marinas%20donde%20destacan%20varios%20cientos%20de%20conchas%2C%20caracolas%20y%20estrellas%20de%20mar%20de%20los%20distintos%20oc%C3%A9anos%2C%20adem%C3%A1s%20de%20mariposas%20e%20insectos%20de%20todos%20los%20continentes.%20Dispone%20tambi%C3%A9n%20de%20una%20gran%20cantidad%20de%20f%C3%B3siles%20y%20minerales%20curiosos%2C%20as%C3%AD%20como%20una%20gran%20cantidad%20de%20aves%20y%20mam%C3%ADferos%20naturalizados.%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20Adem%C3%A1s%2C%20gracias%20a%20la%20donaci%C3%B3n%20de%20los%20herederos%20de%20Manuel%20V%C3%A1zquez%2C%20contamos%20con%20una%20representaci%C3%B3n%20de%20lo%20que%20fue%20el%20m%C3%ADtico%20bar%20de%20Manolillo%20Arjona%2C%20podemos%20observar%20gran%20parte%20del%20mobiliario%20del%20bar%20como%20la%20barra%2C%20mesas%20y%20sillas.%20Aqu%C3%AD%20se%20puede%20ver%20una%20peque%C3%B1a%20colecci%C3%B3n%20de%20botellas%20de%20licores%20y%20vinos%20de%20la%20ya%20desaparecida%20bodega%20herrere%C3%B1a%20Paez%20Ch%C3%ADa.",
+                "audio": "audio_museo_bienvenida",
+                "medias": [
+                    {
+                        "url": "https://github.com/herreraturismo/herrera-turismo-api/raw/main/promo-herrera.mp4",
+                        "type": "video"
+                    }
+                ]
+            }
+        ]
+    }
 }
