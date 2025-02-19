@@ -474,7 +474,7 @@
     },
     "title" : "Calles",
     "subtitle" : "Introducción calles de Herrera",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_presentacion.mp4",
       "type" : "video",
@@ -495,7 +495,7 @@
     },
     "title" : "Teniente Ariza",
     "subtitle" : "Calle Teniente Ariza",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_teniente_ariza.mp4",
       "type" : "video",
@@ -516,7 +516,7 @@
     },
     "title" : "Blas Infante",
     "subtitle" : "Calle Blas Infate",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_blas_infante.mp4",
       "type" : "video",
@@ -537,7 +537,7 @@
     },
     "title" : "Cantarranas",
     "subtitle" : "Calle Cantarranas",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_cantarranas.mp4",
       "type" : "video",
@@ -558,7 +558,7 @@
     },
     "title" : "Huerta",
     "subtitle" : "Calle la huerta",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_huerta.mp4",
       "type" : "video",
@@ -579,7 +579,7 @@
     },
     "title" : "Muñoz Olivé",
     "subtitle" : "Calle Muñoz Olivé",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_munoz_olive.mp4",
       "type" : "video",
@@ -600,7 +600,7 @@
     },
     "title" : "Pontezuelo",
     "subtitle" : "Calle Pontezuelo",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_pontezuelo.mp4",
       "type" : "video",
@@ -621,7 +621,7 @@
     },
     "title" : "Martín Arjona",
     "subtitle" : "Calle Martín Arjona",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_martin_arjona.mp4",
       "type" : "video",
@@ -642,7 +642,7 @@
     },
     "title" : "Silencio",
     "subtitle" : "Calle Silencio",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_silencio.mp4",
       "type" : "video",
@@ -663,7 +663,7 @@
     },
     "title" : "Sol",
     "subtitle" : "Calle Sol",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_sol.mp4",
       "type" : "video",
@@ -684,7 +684,7 @@
     },
     "title" : "Teatro",
     "subtitle" : "Calle Teatro",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_teatro.mp4",
       "type" : "video",
@@ -705,7 +705,7 @@
     },
     "title" : "Amargura",
     "subtitle" : "Calle Amargura",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_amargura.mp4",
       "type" : "video",
@@ -726,7 +726,7 @@
     },
     "title" : "Despedida",
     "subtitle" : "Despedida de las calles de Herrera",
-    "audio" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/null.mp3",
+    "audio" : null,
     "medias" : [ {
       "url" : "https://github.com/herreraturismo/herrera-turismo-api/raw/refs/heads/develop/calles_despedida.mp4",
       "type" : "video",
